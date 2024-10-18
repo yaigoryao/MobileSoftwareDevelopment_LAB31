@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">lab31</string>
+    <string name="main_edit_text_hint">Введите текст</string>
+    <string name="main_text_view_hint">Здесь появится ваш текст</string>
+    <string name="open_color_menu_button_text">Меню выбора цвета</string>
+    <string name="open_layout_menu_button_text">Меню выбоа layout</string>
+    <string name="color_picker_text_view_text">Выберите цвет</string>
+    <string name="red_label">Красный</string>
+    <string name="green_label">Зеленый</string>
+    <string name="blue_label">Синий</string>
+    <string name="yellow_label">Желтый</string>
+    <string name="random_color_label">Случайный</string>
+    <string name="colorpicker_activity_label">Color picker</string>
+    <string name="layoutpicker_activity_label">Layout picker</string>
+    <string name="ok_label">OK</string>
+</resources>
